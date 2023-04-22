@@ -1,1 +1,1 @@
-# digit-recognition-pytorch
+# digit-recognition
